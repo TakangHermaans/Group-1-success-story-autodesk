@@ -1,0 +1,25 @@
+# The company
+ Autodesk is a global leader in software for designers, engineers, builders, and creators.
+
+## What they do
+Autodesk stores information for projects in large files that need to be accessed anytime and shared between various teams. 
+ 
+## What they do
+In the architecture, engineering, and construction (AEC) industry, companies store information for projects in large files that need to be accessed and shared between various teams.
+
+## Challenge
+Autodesk wants to help its customers work more efficiently and intelligently by making design data more accessible and transparent through breaking down these monolithic files into smaller chunks of data hosted in the cloud.
+
+## Solution
+In 2022, Autodesk began to unlock the data capabilities it needed using by using Amazon DynamoDB, a serverless, NoSQL, fully managed database with a single-digit millisecond performance at any scale. 
+It is using Amazon Web Services (AWS) to create its AEC Data Model, a data management system designed to move teams from linear file-based workflows to object-based, collaborative workflows. 
+Amazon DynamoDB is fully managed by AWS, and it has high availability, global replication, and high throughput,It’s also simple to build apps on top of it, and the support that it got from AWS was another key factor for choosing it.
+
+## Benefits
+- Increased data accessibility to drive better decisions
+- 100,000 Revit documents handled daily, totaling 7 billion assets
+- Reduced rework and increased project velocity
+- Eliminated versioning issues for BIM files
+- 80+ million rows-per-minute writing speed achieved
+
+![alt text](sucessstory-2.webp)
